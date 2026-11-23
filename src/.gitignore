@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/*.db
+backups/*
+!backups/.gitkeep
+logs/*.log
+reports/generated/*
+!reports/generated/.gitkeep
